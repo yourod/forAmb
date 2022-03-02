@@ -10,6 +10,8 @@
 //test
 //тест гита 1222
 // test git
+//test branch
+
 Widget::Widget(QWidget *parent) : QWidget(parent) , ui(new Ui::Widget)
 {
     proc = new QProcess(this);
