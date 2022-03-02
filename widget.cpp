@@ -7,6 +7,7 @@
 #include <QtPrintSupport/QPrinterInfo>
 #include <QTableWidget>
 #include <QDir>
+//test
 //тест гита 1222
 Widget::Widget(QWidget *parent) : QWidget(parent) , ui(new Ui::Widget)
 {
