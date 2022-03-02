@@ -7,7 +7,7 @@
 #include <QtPrintSupport/QPrinterInfo>
 #include <QTableWidget>
 #include <QDir>
-//тест гита 12
+//тест гита 1222
 Widget::Widget(QWidget *parent) : QWidget(parent) , ui(new Ui::Widget)
 {
     proc = new QProcess(this);
