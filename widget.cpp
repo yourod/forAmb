@@ -11,7 +11,7 @@
 //тест гита 1222
 // test git
 //test branch
-
+// test for pushing commit
 Widget::Widget(QWidget *parent) : QWidget(parent) , ui(new Ui::Widget)
 {
     proc = new QProcess(this);
