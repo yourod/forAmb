@@ -14,6 +14,7 @@
 // test for pushing commit
 Widget::Widget(QWidget *parent) : QWidget(parent) , ui(new Ui::Widget)
 {
+
     proc = new QProcess(this);
     ui->setupUi(this);
     db = QSqlDatabase::addDatabase("QSQLITE");
